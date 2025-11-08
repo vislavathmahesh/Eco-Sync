@@ -427,17 +427,15 @@ When making changes that affect:
 
 ## 🤝 Getting Help
 
-- **Discord**: [Join our Discord](https://discord.gg/ecosync) (if applicable)
 - **Issues**: Search existing issues or create new ones
 - **Discussions**: Use GitHub Discussions for questions
-- **Email**: contact@ecosync.example.com
+- **Email**: maheshvislavath45@gmail.com
 
 ## 🏆 Recognition
 
 Contributors will be:
 - Listed in `CONTRIBUTORS.md`
 - Mentioned in release notes
-- Featured on project website (if applicable)
 
 ---
 
