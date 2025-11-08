@@ -2,6 +2,12 @@
 
 Thank you for considering contributing to EcoSync! This document outlines the process and guidelines for contributing.
 
+## 👥 Project Contributors
+
+This project is maintained by:
+- [@Dr-Venom29](https://github.com/Dr-Venom29)
+- [@vislavathmahesh](https://github.com/vislavathmahesh)
+
 ## 📋 Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
@@ -38,8 +44,8 @@ We pledge to make participation in our project a harassment-free experience for 
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/yourusername/ecosync.git
-   cd ecosync
+   git clone https://github.com/vislavathmahesh/Eco-Sync.git
+   cd Eco-Sync
    ```
 
 2. **Set up development environment**
@@ -47,7 +53,7 @@ We pledge to make participation in our project a harassment-free experience for 
    - Ensure all tests pass before making changes
 
 3. **Find an issue to work on**
-   - Check [Issues](https://github.com/yourusername/ecosync/issues) for `good-first-issue` or `help-wanted` labels
+   - Check [Issues](https://github.com/vislavathmahesh/Eco-Sync/issues) for `good-first-issue` or `help-wanted` labels
    - Comment on the issue to let others know you're working on it
    - If creating a new feature, open an issue first to discuss
 
@@ -427,16 +433,15 @@ When making changes that affect:
 
 ## 🤝 Getting Help
 
-- **Issues**: Search existing issues or create new ones
-- **Discussions**: Use GitHub Discussions for questions
-- **Email**: maheshvislavath45@gmail.com
+- **Issues**: [Search existing issues](https://github.com/vislavathmahesh/Eco-Sync/issues) or create new ones
+- **Discussions**: Use [GitHub Discussions](https://github.com/vislavathmahesh/Eco-Sync/discussions) for questions
+- **Contact**: Reach out to [@Dr-Venom29](https://github.com/Dr-Venom29) or [@vislavathmahesh](https://github.com/vislavathmahesh)
 
 ## 🏆 Recognition
 
 Contributors will be:
-- Listed in `CONTRIBUTORS.md`
+- Recognized in project documentation
 - Mentioned in release notes
+- Added to our contributors list
 
 ---
-
-**Thank you for contributing to EcoSync! Together, we're building a cleaner, greener future. 🌿**
