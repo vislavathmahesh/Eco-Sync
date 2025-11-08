@@ -439,10 +439,6 @@ Contributors will be:
 - Mentioned in release notes
 - Featured on project website (if applicable)
 
-## 📝 License
-
-By contributing, you agree that your contributions will be licensed under the MIT License.
-
 ---
 
 **Thank you for contributing to EcoSync! Together, we're building a cleaner, greener future. 🌿**
