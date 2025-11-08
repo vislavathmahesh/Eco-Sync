@@ -361,10 +361,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-
-## 📞 Contact
----
-
 ## 📞 Contact
 
 **Contributors:** [@Dr-Venom29](https://github.com/Dr-Venom29) • [@vislavathmahesh](https://github.com/vislavathmahesh)
